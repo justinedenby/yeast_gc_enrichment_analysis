@@ -1,10 +1,10 @@
 # yeast_gc_enrichment_analysis
 
-gc enrichment analysis performed on the Shen 2018 paper
+gc enrichment analysis performed on the 332 yeast genomes composed and published in the Shen et al. 2018 paper
 files included:
 
 
-  6 enrichment files from the [Gene Ontology Saccharomyces Genome DataBase]([url](https://www.yeastgenome.org/goTermFinder))
+  6 enrichment files from the [YeastEnrichr](https://maayanlab.cloud/YeastEnrichr/#stats)
   1. GO_Molecular_Function_2018
   2. WikiPathways_2018
   3. KEGG_2019
