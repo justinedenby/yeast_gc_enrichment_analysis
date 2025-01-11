@@ -12,6 +12,6 @@ files included:
   - GO_Biological_Process_2018
   - Phenotype_AutoRIF
 
-  2 Python and R files with code for analysis
+  Python and R files with code for analysis
   - GC_testing_code.py
   - yeast_anaylsis.R
