@@ -5,9 +5,13 @@ files included:
 
 
   6 enrichment files from the [YeastEnrichr](https://maayanlab.cloud/YeastEnrichr/#stats)
-  1. GO_Molecular_Function_2018
-  2. WikiPathways_2018
-  3. KEGG_2019
-  4. GO_Cellular_Component_2018
-  5. GO_Biological_Process_2018
-  6. Phenotype_AutoRIF
+  - GO_Molecular_Function_2018
+  - WikiPathways_2018
+  - KEGG_2019
+  - GO_Cellular_Component_2018
+  - GO_Biological_Process_2018
+  - Phenotype_AutoRIF
+
+  2 Python and R files with code for analysis
+  - GC_testing_code.py
+  - yeast_anaylsis.R
